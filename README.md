@@ -1,4 +1,4 @@
-# openai-embeddings-semantic-search
+# Openai-embeddings-semantic-search
 This project demonstrates how to build a simple semantic search system using OpenAI's text-embedding-3-large model and cosine similarity. Instead of matching exact keywords, semantic search understands the meaning and context of the query to retrieve the most relevant document.
 
 # Features
